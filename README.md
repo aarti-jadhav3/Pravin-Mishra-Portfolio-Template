@@ -46,4 +46,11 @@ The website footer displays the portfolio version, deploy date, and author name.
 The deploy date is generated dynamically using JavaScript at page load time,
 so the footer always reflects the latest deployment date without manual updates.
 
+## Footer UI & Accessibility
+
+The footer was polished to improve readability and accessibility.
+Spacing, font size, and contrast were adjusted to ensure the footer
+is usable on both desktop and mobile screens.
+
+
 ✅ This proof must be visible in your browser screenshot submission.
