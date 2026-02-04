@@ -39,4 +39,11 @@ Add this line (example):
 <p><strong>Deployed by:</strong> DMI Cohort 2 | Rahul Sharma | Group 4 | Week 1 | 16-01-2026</p>
 ```
 
+## Footer Version & Deploy Date
+
+The website footer displays the portfolio version, deploy date, and author name.
+
+The deploy date is generated dynamically using JavaScript at page load time,
+so the footer always reflects the latest deployment date without manual updates.
+
 ✅ This proof must be visible in your browser screenshot submission.
